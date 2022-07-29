@@ -2,7 +2,7 @@
     filter: brightness(0.4) contrast(.9) grayscale(.1);
 }
 .responsive-font h1{
-  font-size: 4.5vw;
+  font-size: 4vw;
 }
 .responsive-font p{
   font-size: 1.5vw;
